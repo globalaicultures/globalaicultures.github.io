@@ -1,20 +1,10 @@
-theme: jekyll-theme-minimal
+theme: jekyll-remote-theme
 title: Cultures in AI/AI in Culture
 description: Cultures in AI/AI in Culture: A NeurIPS 2022 Workshop
-show_downloads: true
+email: aicultures2022@gmail.com
+favicon: true
+color-scheme: auto
 
-# include these as manual settings to avoid linking to website
-
-navigation:
-
-  - title: Description
-    url: index.html#description
-    
-  - title: Call for Papers
-  - url: index.html\#call-for-papers
-
-  - title: Dates/Submission Portal
-    url: index.html\#dates-submission-portal
-
-  - title: Organizers
-    url: index.html\#organizers
+plugins:
+  - jekyll-sitemap
+  - jemoji
