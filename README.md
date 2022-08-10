@@ -1,9 +1,6 @@
-# Cultures in AI/AI in Culture
-## A NeurIPS 2022 Workshop
+We are [accepting submissions](https://airtable.com/shrI4gZSxKPkNMrIN) for the virtual NeurIPS 2022 Workshop on Cultures of AI and AI for Culture to be held on **December 9**. This is a cross-disciplinary workshop with experts in AI/ML and social sciences discussing how AI influences culture and how culture influences AI.  
 
-# Description
-
-We are accepting submissions for the virtual NeurIPS 2022 Workshop on Cultures of AI and AI for Culture to be held on **December 9**. This is a cross-disciplinary workshop with experts in AI/ML and social sciences discussing how AI influences culture and how culture influences AI.  More details at our workshop website: https://ai-cultures.github.io/
+Our deadline for submissions is **September 22, 2022**.
 
 # Call for position papers
 
@@ -94,9 +91,15 @@ December 9, 2022
 
 All registered participants of NeurIPS can attend the workshop. We may have limited discounted registrations available for participants. 
 
+You can [submit your work](https://airtable.com/shrI4gZSxKPkNMrIN) via Airtable.
+
 For questions please get in touch with us at: aicultures2022@gmail.com
 
-**Deadline**: September 22, 2022
+**Submission Deadline**: September 22, 2022
+
+**Acceptance Notification**: October 20, 2022
+
+**Workshop Date**: December 9, 2022
 
 # Organizers
 
