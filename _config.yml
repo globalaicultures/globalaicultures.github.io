@@ -8,13 +8,13 @@ show_downloads: true
 navigation:
 
   - title: Description
-    url: #
+    url: index.html#description
     
   - title: Call for Papers
-  - url: #
+  - url: index.html\#call-for-papers
 
   - title: Dates/Submission Portal
-    url: #
+    url: index.html\#dates-submission-portal
 
   - title: Organizers
-    url: #
+    url: index.html\#organizers
