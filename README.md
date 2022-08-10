@@ -1,5 +1,5 @@
 # Cultures in AI/AI in Culture
-## NeurIPS 2022 Workshop
+## A NeurIPS 2022 Workshop
 
 # Description
 
@@ -59,8 +59,8 @@ For questions please get in touch with us at: aicultures2022@gmail.com
 
 # Organizers
 
-Rida Qadri (Google)
-Fernando Diaz (Google)
-Alex Hanna (DAIR)
-Nick Seaver (Tufts)
-Morgan Scheuerman (UC Boulder)
+- Rida Qadri (Google)
+- Fernando Diaz (Google)
+- Alex Hanna (DAIR)
+- Nick Seaver (Tufts)
+- Morgan Scheuerman (UC Boulder)
