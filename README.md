@@ -95,9 +95,9 @@ December 9, 2022
 | Time        | Event    |
 |------------- |----------|
 | 9:00-9:15  | Opening and introductions |
-| 9:15-10:30 | Invited Panel 1: Cultures Shaping AI |
+| 9:15-10:30 | Invited Panel 1: AI Curating Culture |
 | 10:30-10:40 | Break |
-| 10:40-11:55  | Invited Panel 2: AI Curating Culture |
+| 10:40-11:55  | Invited Panel 2: Cultures Shaping AI |
 | 11:55-12:30  | Lunch |
 | 12:30-13:45 | Contributed Paper Panel on AI and Culture (lightning talks) |
 | 13:45-13:55 | Break |
