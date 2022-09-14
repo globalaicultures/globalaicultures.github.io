@@ -66,18 +66,7 @@ Accepted submissions will be non-archival and presented during the workshop as s
 
 # Panels
 
-## Panel 1: Cultures of AI
-*How social, organizational, CS pedagogical cultures influence AI development*
-
-[Angèle Christin](https://www.angelechristin.com/), Stanford University
-
-[Mary L. Gray](https://marylgray.org/), Microsoft Research
-
-[Rumman Chowdhury](http://www.rummanchowdhury.com/), Twitter
-
-[William Isaac](https://wsisaac.com/), DeepMind
-
-## Panel 2: AI Curating Culture
+## Panel 1: AI Curating Culture
 *How AI production tools impact culture*
 
 [Kalika Bali](https://www.microsoft.com/en-us/research/people/kalikab/), Microsoft Research
@@ -87,6 +76,17 @@ Accepted submissions will be non-archival and presented during the workshop as s
 [Jonathan Sterne](https://sterneworks.org/), McGill University
 
 [Percy Liang](https://cs.stanford.edu/~pliang/), Stanford University
+
+## Panel 2: Cultures of AI
+*How social, organizational, CS pedagogical cultures influence AI development*
+
+[Angèle Christin](https://www.angelechristin.com/), Stanford University
+
+[Mary L. Gray](https://marylgray.org/), Microsoft Research
+
+[Rumman Chowdhury](http://www.rummanchowdhury.com/), Twitter
+
+[William Isaac](https://wsisaac.com/), DeepMind
 
 # Schedule (all times PST)
 
