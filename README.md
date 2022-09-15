@@ -53,6 +53,8 @@ We take an expansive definition of culture including but not limited to:
 5. Religion
 6. Broader tech ecosystem
 
+References do not count toward the 2-3 page limit.
+
 ## Reviewing
 
 Papers will be reviewed by workshop organizers and selected for:
