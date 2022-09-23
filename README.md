@@ -111,7 +111,7 @@ December 9, 2022
 
 All registered participants of NeurIPS can attend the workshop. We may have limited discounted registrations available for participants. 
 
-You can [submit your work](https://airtable.com/shrI4gZSxKPkNMrIN) via Airtable.
+You can [submit your work](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI_Cultures) via Airtable.
 
 For questions please get in touch with us at: aicultures2022@gmail.com
 
