@@ -101,9 +101,9 @@ December 9, 2022
 | 10:30-10:40 | Break |
 | 10:40-11:55  | Invited Panel 2: Cultures Shaping AI |
 | 11:55-12:30  | Lunch |
-| 12:30-13:45 | Contributed Paper Panel on AI and Culture (lightning talks) |
+| 12:30-13:45 | Contributed Panel 1 |
 | 13:45-13:55 | Break |
-| 13:55-14:50 | Themed Breakout discussions |
+| 13:55-14:50 | Contributed Panel 2 |
 | 14:50-15:00 | Break |
 | 15:00-15:30 | Closing shareout |
 
