@@ -109,39 +109,39 @@ December 9, 2022
 
 # Accepted Submissions
 
-* Cultural Re-contextualization of Fairness Research in Language Technologies in India
+* Cultural Re-contextualization of Fairness Research in Language Technologies in India,
 _Shaily Bhatt, Sunipa Dev, Partha Talukdar, Shachi Dave, Vinodkumar Prabhakaran_
-* Recommender systems as cultural technologies: steps to an expanded definition of culture in/and AI
+* Recommender systems as cultural technologies: steps to an expanded definition of culture in/and AI,
 _Georgina Born_
-* Sapir’s Thought-Grooves and Whorf’s Tensors: Reconciling Transformer Architectures with Cultural Anthropology
+* Sapir’s Thought-Grooves and Whorf’s Tensors: Reconciling Transformer Architectures with Cultural Anthropology,
 _Michael Castelle_
-* The Myth of Culturally Agnostic AI Models
+* The Myth of Culturally Agnostic AI Models,
 _Eva Cetinic_
-* Redefining Relationships in Music
+* Redefining Relationships in Music,
 _Christian Detweiler, Beth Coleman, Fernando Diaz, Lieke Dom, Jesse Engel, Cheng-Zhi Anna Huang, Larry James, Ethan Manilow, Amanda McCroskery, Kyle Pedersen, Pamela Peter-Agbia, Negar Rostamzadeh, Robert Thomas, Marco Zamarato, Ben Zevenbergen_
-* The production and solidification of a ML dataset
+* The production and solidification of a ML dataset,
 _Isak Engdahl_
-* Cultural work in 'AI Ethics and Society' pedagogy: Some early reflections
+* Cultural work in 'AI Ethics and Society' pedagogy: Some early reflections,
 _Maya Indira Ganesh, Rune Nyrup_
-* All the tools, none of the motivation: Organizational culture and barriers to responsible AI work
+* All the tools, none of the motivation: Organizational culture and barriers to responsible AI work,
 _Amy K. Heger, Samir Passi, Mihaela Vorvoreanu_
-* When AI Meets the K-Pop culture: A case study of fans’ perception of AI Private Call
+* When AI Meets the K-Pop culture: A case study of fans’ perception of AI Private Call,
 _Eun Jeong Kang, Haesoo Kim, Hyunwoo Kim, Juho Kim_
-* “Moral Imagination:” A Method for Culture Change in Technology Development
+* “Moral Imagination:” A Method for Culture Change in Technology Development,
 _Amanda McCroskery, Geoff Keeling, Renee Shelby, Sandra Blascovich, Ben Zevenbergen_
-* Algorithmic Performativity
+* Algorithmic Performativity,
 _Emanuel Moss_
-* An Analytics of Culture: Modeling Subjectivity, Scalability, Contextuality, and Temporality
+* An Analytics of Culture: Modeling Subjectivity, Scalability, Contextuality, and Temporality,
 _Nanne van Noord, Melvin Wevers, Tobias Blanke, Julia Noordegraaf, Marcel Worring_
-* Cultural Incongruencies in Artificial Intelligence
+* Cultural Incongruencies in Artificial Intelligence,
 _Vinodkumar Prabhakaran, Rida Qadri, Ben Hutchinson_
-* Training a Model =/≠ Generating Culture: The Meaning of Culture and the Prospect of Artificial Intelligibility
+* Training a Model =/≠ Generating Culture: The Meaning of Culture and the Prospect of Artificial Intelligibility,
 _Michael W. Raphael, Nga Than_
-* Aggregate, Integrate and Align to Embed Everything: A Multi-Modal Framework for Measuring Cultural Dynamics
+* Aggregate, Integrate and Align to Embed Everything: A Multi-Modal Framework for Measuring Cultural Dynamics,
 _Bhargav Srinivasa Desikan, James Evans_
-* Machine Learning as an Archival Science: Narratives behind Artificial Intelligence, Cultural Data, and Archival Remediation
+* Machine Learning as an Archival Science: Narratives behind Artificial Intelligence, Cultural Data, and Archival Remediation,
 _Giulia Taurino, David A. Smith_
-* One Venue, Two Conferences: The Separation of Chinese and American Citation Networks
+* One Venue, Two Conferences: The Separation of Chinese and American Citation Networks,
 _Bingchen Zhao, Yuling Gu, Jessica Zosa Forde, Naomi Saphra_
 
 # Dates/Submission portal 
