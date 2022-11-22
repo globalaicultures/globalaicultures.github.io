@@ -101,17 +101,15 @@ December 9, 2022
 | 10:30-10:40 | Break |
 | 10:40-11:55  | Invited Panel 2: Cultures Shaping AI |
 | 11:55-12:30  | Lunch |
-| 12:30-13:45 | Contributed Panel 1 |
-| 13:45-13:55 | Break |
-| 13:55-14:50 | Contributed Panel 2 |
+| 12:30-13:35 | Contributed Panels 1 |
+| 13:35-13:45 | Break |
+| 13:45-14:50 | Contributed Panels 2 |
 | 14:50-15:00 | Break |
 | 15:00-15:30 | Closing shareout |
 
 # Dates/Submission portal 
 
 All registered participants of NeurIPS can attend the workshop. We may have limited discounted registrations available for participants. 
-
-You can [submit your work](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI_Cultures) via Airtable.
 
 For questions please get in touch with us at: aicultures2022@gmail.com
 
