@@ -86,7 +86,7 @@ Accepted submissions will be non-archival and presented during the workshop as s
 
 [Mary L. Gray](https://marylgray.org/), Microsoft Research
 
-[Rumman Chowdhury](http://www.rummanchowdhury.com/), Twitter
+[Rumman Chowdhury](http://www.rummanchowdhury.com/)
 
 [William Isaac](https://wsisaac.com/), DeepMind
 
