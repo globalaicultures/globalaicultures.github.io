@@ -109,7 +109,7 @@ December 9, 2022
 
 # Accepted Submissions
 
-* Cultural Re-contextualization of Fairness Research in Language Technologies in India,
+* [Cultural Re-contextualization of Fairness Research in Language Technologies in India](papers/cultural_re_contextualization_.pdf),
 _Shaily Bhatt, Sunipa Dev, Partha Talukdar, Shachi Dave, Vinodkumar Prabhakaran_
 * Recommender systems as cultural technologies: steps to an expanded definition of culture in/and AI,
 _Georgina Born_
