@@ -1,4 +1,4 @@
-We are [accepting submissions](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI_Cultures) for the virtual [NeurIPS 2022](https://nips.cc/) Workshop on Cultures of AI and AI for Culture to be held on **December 9**. This is a cross-disciplinary workshop with experts in AI/ML and social sciences discussing how AI influences culture and how culture influences AI.  
+The Workshop on Cultures of AI and AI for Culture to be held _virtually_ as part of  [NeurIPS 2022](https://nips.cc/) on **December 9**. This is a cross-disciplinary workshop with experts in AI/ML and social sciences discussing how AI influences culture and how culture influences AI.  
 
 
 # Description
