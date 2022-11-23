@@ -97,17 +97,6 @@ _Giulia Taurino, David A. Smith_
 * [One Venue, Two Conferences: The Separation of Chinese and American Citation Networks](papers/one_venue_two_conferences_the_.pdf),
 _Bingchen Zhao, Yuling Gu, Jessica Zosa Forde, Naomi Saphra_
 
-# Dates/Submission portal 
-
-All registered participants of NeurIPS can attend the workshop. We may have limited discounted registrations available for participants. 
-
-For questions please get in touch with us at: aicultures2022@gmail.com
-
-**Submission Deadline**: October 6, 2022
-
-**Acceptance Notification**: October 20, 2022
-
-**Workshop Date**: December 9, 2022
 
 # Organizers
 
@@ -167,3 +156,14 @@ Papers will be reviewed by workshop organizers and selected for:
 
 Accepted submissions will be non-archival and presented during the workshop as short lightning presentations.  
 
+# Dates/Submission portal 
+
+All registered participants of NeurIPS can attend the workshop. We may have limited discounted registrations available for participants. 
+
+For questions please get in touch with us at: aicultures2022@gmail.com
+
+**Submission Deadline**: October 6, 2022
+
+**Acceptance Notification**: October 20, 2022
+
+**Workshop Date**: December 9, 2022
