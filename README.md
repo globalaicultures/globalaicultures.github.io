@@ -131,9 +131,9 @@ _Eun Jeong Kang, Haesoo Kim, Hyunwoo Kim, Juho Kim_
 _Amanda McCroskery, Geoff Keeling, Renee Shelby, Sandra Blascovich, Ben Zevenbergen_
 * [Algorithmic Performativity](papers/algorithmic_performativity.pdf),
 _Emanuel Moss_
-* An Analytics of Culture: Modeling Subjectivity, Scalability, Contextuality, and Temporality,
+* [An Analytics of Culture: Modeling Subjectivity, Scalability, Contextuality, and Temporality](papers/An_Analytics_of_Culture.pdf),
 _Nanne van Noord, Melvin Wevers, Tobias Blanke, Julia Noordegraaf, Marcel Worring_
-* Cultural Incongruencies in Artificial Intelligence,
+* [Cultural Incongruencies in Artificial Intelligence](papers/Cultural_Competencies_in_Artificial_Intelligence__NeurIPS_2022_Culture_AI_Workshop.pdf),
 _Vinodkumar Prabhakaran, Rida Qadri, Ben Hutchinson_
 * [Training a Model =/≠ Generating Culture: The Meaning of Culture and the Prospect of Artificial Intelligibility](papers/training_a_model_generating_cu.pdf),
 _Michael W. Raphael, Nga Than_
