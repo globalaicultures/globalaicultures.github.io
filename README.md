@@ -111,37 +111,37 @@ December 9, 2022
 
 * [Cultural Re-contextualization of Fairness Research in Language Technologies in India](papers/cultural_re_contextualization_.pdf),
 _Shaily Bhatt, Sunipa Dev, Partha Talukdar, Shachi Dave, Vinodkumar Prabhakaran_
-* Recommender systems as cultural technologies: steps to an expanded definition of culture in/and AI,
+* [Recommender systems as cultural technologies: steps to an expanded definition of culture in/and AI](papers/recommender_systems_as_cultura.pdf),
 _Georgina Born_
-* Sapir’s Thought-Grooves and Whorf’s Tensors: Reconciling Transformer Architectures with Cultural Anthropology,
+* [Sapir’s Thought-Grooves and Whorf’s Tensors: Reconciling Transformer Architectures with Cultural Anthropology](papers/sapir_s_thought_grooves_and_wh.pdf),
 _Michael Castelle_
-* The Myth of Culturally Agnostic AI Models,
+* [The Myth of Culturally Agnostic AI Models](papers/the_myth_of_culturally_agnosti.pdf),
 _Eva Cetinic_
-* Redefining Relationships in Music,
+* [Redefining Relationships in Music](papers/redefining_relationships_in_mu.pdf),
 _Christian Detweiler, Beth Coleman, Fernando Diaz, Lieke Dom, Jesse Engel, Cheng-Zhi Anna Huang, Larry James, Ethan Manilow, Amanda McCroskery, Kyle Pedersen, Pamela Peter-Agbia, Negar Rostamzadeh, Robert Thomas, Marco Zamarato, Ben Zevenbergen_
-* The production and solidification of a ML dataset,
+* [The production and solidification of a ML dataset](papers/the_production_and_solidificat.pdf),
 _Isak Engdahl_
-* Cultural work in 'AI Ethics and Society' pedagogy: Some early reflections,
+* [Cultural work in 'AI Ethics and Society' pedagogy: Some early reflections](papers/cultural_work_in_ai_ethics_and.pdf),
 _Maya Indira Ganesh, Rune Nyrup_
-* All the tools, none of the motivation: Organizational culture and barriers to responsible AI work,
+* [All the tools, none of the motivation: Organizational culture and barriers to responsible AI work](papers/all_the_tools_none_of_the_moti.pdf),
 _Amy K. Heger, Samir Passi, Mihaela Vorvoreanu_
-* When AI Meets the K-Pop culture: A case study of fans’ perception of AI Private Call,
+* [When AI Meets the K-Pop culture: A case study of fans’ perception of AI Private Call](papers/when_ai_meets_the_k_pop_cultur.pdf),
 _Eun Jeong Kang, Haesoo Kim, Hyunwoo Kim, Juho Kim_
 * “Moral Imagination:” A Method for Culture Change in Technology Development,
 _Amanda McCroskery, Geoff Keeling, Renee Shelby, Sandra Blascovich, Ben Zevenbergen_
-* Algorithmic Performativity,
+* [Algorithmic Performativity](papers/algorithmic_performativity.pdf),
 _Emanuel Moss_
 * An Analytics of Culture: Modeling Subjectivity, Scalability, Contextuality, and Temporality,
 _Nanne van Noord, Melvin Wevers, Tobias Blanke, Julia Noordegraaf, Marcel Worring_
 * Cultural Incongruencies in Artificial Intelligence,
 _Vinodkumar Prabhakaran, Rida Qadri, Ben Hutchinson_
-* Training a Model =/≠ Generating Culture: The Meaning of Culture and the Prospect of Artificial Intelligibility,
+* [Training a Model =/≠ Generating Culture: The Meaning of Culture and the Prospect of Artificial Intelligibility](papers/training_a_model_generating_cu.pdf),
 _Michael W. Raphael, Nga Than_
-* Aggregate, Integrate and Align to Embed Everything: A Multi-Modal Framework for Measuring Cultural Dynamics,
+* [Aggregate, Integrate and Align to Embed Everything: A Multi-Modal Framework for Measuring Cultural Dynamics](papers/aggregate_integrate_and_align_.pdf),
 _Bhargav Srinivasa Desikan, James Evans_
-* Machine Learning as an Archival Science: Narratives behind Artificial Intelligence, Cultural Data, and Archival Remediation,
+* [Machine Learning as an Archival Science: Narratives behind Artificial Intelligence, Cultural Data, and Archival Remediation](papers/machine_learning_as_an_archiva.pdf),
 _Giulia Taurino, David A. Smith_
-* One Venue, Two Conferences: The Separation of Chinese and American Citation Networks,
+* [One Venue, Two Conferences: The Separation of Chinese and American Citation Networks](papers/one_venue_two_conferences_the_.pdf),
 _Bingchen Zhao, Yuling Gu, Jessica Zosa Forde, Naomi Saphra_
 
 # Dates/Submission portal 
