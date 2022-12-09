@@ -48,26 +48,25 @@ Through a series of inter-disciplinary discussions this workshop will: (a) defin
 December 9, 2022
 
 
-
 | Time (PT) | |
 | --- | :-- |
 | 09:00-09:15 | Opening |
 | | Rida Qadri, Fernando Diaz, Alex Hanna, Nick Seaver, Morgan Scheuerman |
-| 09:15-10:30 | Invited Panel 1: AI Curating Culture<br/>*Moderator: Fernando Diaz* | 
+| 09:15-10:30 | **Invited Panel 1: AI Curating Culture**<br/>*Moderator: Fernando Diaz* | 
 | |Kalika Bali, Microsoft Research<br/>Jennifer Lena, Columbia University<br/>Jonathan Sterne, McGill University<br/>Percy Liang, Stanford University |
 | 10:30-10:40 | *break* |
-| 10:40-11:55 | Invited Panel 2: Cultures of AI<br/>*Moderator: Rida Qadri* | 
+| 10:40-11:55 | **Invited Panel 2: Cultures of AI**<br/>*Moderator: Rida Qadri* | 
 | |Angèle Christin, Stanford University<br/>Mary L. Gray, Microsoft Research<br/>Rumman Chowdhury<br/>William Isaac, DeepMind |
 | 11:55-12:30 | *break* |
-| 12:30-13:35 | Contributed Panel 1a: Ecosystems of AI Development<br/>*Moderator: Morgan Scheuerman* | 
-| |Cultural work in 'AI Ethics and Society' pedagogy: Some early reflections<br/>*Maya Indira Ganesh, Rune Nyrup*<br/>The production and solidification of a ML dataset<br/>*Isak Engdahl*<br/>“Moral Imagination:” A Method for Culture Change in Technology Development<br/>*Amanda McCroskery, Geoff Keeling, Renee Shelby, Sandra Blascovich, Ben Zevenbergen*<br/>All the tools, none of the motivation: Organizational culture and barriers to responsible AI work<br/>*Amy K. Heger, Samir Passi, Mihaela Vorvoreanu*<br/>One Venue, Two Conferences: The Separation of Chinese and American Citation Networks<br/>*Bingchen Zhao, Yuling Gu, Jessica Zosa Forde, Naomi Saphra* |
-| | Contributed Panel 1b: Frameworks of AI/Culture entanglement<br/>*Moderator: Nick Seaver* | 
-| | Cultural Incongruencies in Artificial Intelligence<br>*Vinodkumar Prabhakaran, Rida Qadri, Ben Hutchinson*<br>An Analytics of Culture: Modeling Subjectivity, Scalability, Contextuality, and Temporality<br>*Nanne van Noord, Melvin Wevers, Tobias Blanke, Julia Noordegraaf, Marcel Worring*<br>The Myth of Culturally Agnostic AI Models<br>*Eva Cetinic*<br>Recommender systems as cultural technologies: steps to an expanded definition of culture in/and AI<br>*Georgina Born* |
+| 12:30-13:35 | **Contributed Panel 1a: Ecosystems of AI Development**<br/>*Moderator: Morgan Scheuerman* | 
+| |Cultural work in 'AI Ethics and Society' pedagogy: Some early reflections<br/>*Maya Indira Ganesh, Rune Nyrup*<br/><br/>The production and solidification of a ML dataset<br/>*Isak Engdahl*<br/><br/>“Moral Imagination:” A Method for Culture Change in Technology Development<br/>*Amanda McCroskery, Geoff Keeling, Renee Shelby, Sandra Blascovich, Ben Zevenbergen*<br/><br/>All the tools, none of the motivation: Organizational culture and barriers to responsible AI work<br/>*Amy K. Heger, Samir Passi, Mihaela Vorvoreanu*<br/><br/>One Venue, Two Conferences: The Separation of Chinese and American Citation Networks<br/>*Bingchen Zhao, Yuling Gu, Jessica Zosa Forde, Naomi Saphra* |
+| | **Contributed Panel 1b: Frameworks of AI/Culture entanglement**<br/>*Moderator: Nick Seaver* | 
+| | Cultural Incongruencies in Artificial Intelligence<br>*Vinodkumar Prabhakaran, Rida Qadri, Ben Hutchinson*<br><br>An Analytics of Culture: Modeling Subjectivity, Scalability, Contextuality, and Temporality<br>*Nanne van Noord, Melvin Wevers, Tobias Blanke, Julia Noordegraaf, Marcel Worring*<br><br>The Myth of Culturally Agnostic AI Models<br>*Eva Cetinic*<br><br>Recommender systems as cultural technologies: steps to an expanded definition of culture in/and AI<br>*Georgina Born* |
 | 13:35-13:45 | *break* |
-| 13:45-14:50 | Contributed Panel 2a: AI and cultural production<br>*Moderator: Alex Hanna* |
-| | Redefining Relationships in Music<br>*Christian Detweiler, Beth Coleman, Fernando Diaz, Lieke Dom, Jesse Engel, Cheng-Zhi Anna Huang, Larry James, Ethan Manilow, Amanda McCroskery, Kyle Pedersen, Pamela Peter-Agbia, Negar Rostamzadeh, Robert Thomas, Marco Zamarato, Ben Zevenbergen*<br>Cultural Re-contextualization of Fairness Research in Language Technologies in India<br>*Shaily Bhatt, Sunipa Dev, Partha Talukdar, Shachi Dave, Vinodkumar Prabhakaran*<br>Aggregate, Integrate and Align to Embed Everything: A Multi-Modal Framework for Measuring Cultural Dynamics<br>*Bhargav Srinivasa Desikan, James Evans*<br>When AI Meets the K-Pop culture: A case study of fans’ perception of AI Private Call<br>*Eun Jeong Kang, Haesoo Kim, Hyunwoo Kim, Juho Kim*<br> |
-| | Contributed Panel 2b: Theorizing AI/Culture entanglement<br>*Moderator: Nick Seaver* |
-| | Algorithmic Performativity<br>*Emanuel Moss*<br>Machine Learning as an Archival Science: Narratives behind Artificial Intelligence, Cultural Data, and Archival Remediation<br>*Giulia Taurino, David A. Smith*<br>Sapir’s Thought-Grooves and Whorf’s Tensors: Reconciling Transformer Architectures with Cultural Anthropology<br>*Michael Castelle*<br>Training a Model =/≠ Generating Culture: The Meaning of Culture and the Prospect of Artificial Intelligibility<br>*Michael W. Raphael, Nga Than* |
+| 13:45-14:50 | **Contributed Panel 2a: AI and cultural production**<br>*Moderator: Alex Hanna* |
+| | Redefining Relationships in Music<br>*Christian Detweiler, Beth Coleman, Fernando Diaz, Lieke Dom, Jesse Engel, Cheng-Zhi Anna Huang, Larry James, Ethan Manilow, Amanda McCroskery, Kyle Pedersen, Pamela Peter-Agbia, Negar Rostamzadeh, Robert Thomas, Marco Zamarato, Ben Zevenbergen*<br><br>Cultural Re-contextualization of Fairness Research in Language Technologies in India<br>*Shaily Bhatt, Sunipa Dev, Partha Talukdar, Shachi Dave, Vinodkumar Prabhakaran*<br><br>Aggregate, Integrate and Align to Embed Everything: A Multi-Modal Framework for Measuring Cultural Dynamics<br>*Bhargav Srinivasa Desikan, James Evans*<br><br>When AI Meets the K-Pop culture: A case study of fans’ perception of AI Private Call<br>*Eun Jeong Kang, Haesoo Kim, Hyunwoo Kim, Juho Kim* |
+| | **Contributed Panel 2b: Theorizing AI/Culture entanglement**<br>*Moderator: Nick Seaver* |
+| | Algorithmic Performativity<br>*Emanuel Moss*<br><br>Machine Learning as an Archival Science: Narratives behind Artificial Intelligence, Cultural Data, and Archival Remediation<br>*Giulia Taurino, David A. Smith*<br><br>Sapir’s Thought-Grooves and Whorf’s Tensors: Reconciling Transformer Architectures with Cultural Anthropology<br>*Michael Castelle*<br><br>Training a Model =/≠ Generating Culture: The Meaning of Culture and the Prospect of Artificial Intelligibility<br>*Michael W. Raphael, Nga Than* |
 | 14:50-15:00 | *break* |
 | 15:00-15:30 | **Closing** |
 | | Rida Qadri, Fernando Diaz, Alex Hanna, Nick Seaver, Morgan Scheuerman |
