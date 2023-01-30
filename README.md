@@ -84,8 +84,6 @@ _Michael Castelle_
 _Eva Cetinic_
 * [Redefining Relationships in Music](papers/redefining_relationships_in_mu.pdf),
 _Christian Detweiler, Beth Coleman, Fernando Diaz, Lieke Dom, Jesse Engel, Cheng-Zhi Anna Huang, Larry James, Ethan Manilow, Amanda McCroskery, Kyle Pedersen, Pamela Peter-Agbia, Negar Rostamzadeh, Robert Thomas, Marco Zamarato, Ben Zevenbergen_
-* [The production and solidification of a ML dataset](papers/the_production_and_solidificat.pdf),
-_Isak Engdahl_
 * [Cultural work in 'AI Ethics and Society' pedagogy: Some early reflections](papers/cultural_work_in_ai_ethics_and.pdf),
 _Maya Indira Ganesh, Rune Nyrup_
 * [All the tools, none of the motivation: Organizational culture and barriers to responsible AI work](papers/all_the_tools_none_of_the_moti.pdf),
