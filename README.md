@@ -54,7 +54,7 @@ TBA
 
 All registered participants of ICLR 2024 can attend the workshop. We may have limited discounted registrations available for participants. 
 
-For questions please get in touch with us at: globalaicultures@gmail.com.
+For questions please get in touch with us at: globalcultures_iclr@googlegroups.com.
 
 **Submission Deadline**: TBA
 
