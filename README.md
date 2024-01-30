@@ -21,6 +21,10 @@ This workshop aims to begin a conversation between core AI researchers and exper
 5. **User Interactions with GenAI in Support of Cultural Inclusion:** Are there creative strategies that can reparatively promote the inclusion of subjugated cultural values through UI, deployment, or public education/advocacy?
 6. **Cultural impacts of Generative AI:** How can we understand immediate and longer-term impacts of these technologies on the culture industries?  How does AI support or challenge support existing dynamics in the culture industries?  Are there existing norms or principles in non-AI systems of content creation and distribution?
 
+# Call for Proposals
+
+You may find our call for proposals [here](https://globalaicultures.github.io/cfp).
+
 # Panels
 
 TBA
