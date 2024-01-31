@@ -1,3 +1,9 @@
+---
+layout: default
+title: Call for Papers
+nav_order: 2
+---
+
 We are accepting submissions for the [Global AI Cultures](https://globalaicultures.github.io/) workshop to be held on May 11, 2024 at [ICLR](https://iclr.cc/) (International Conference on Learning Representations) in Vienna, Austria. This is a cross-disciplinary, ***hybrid*** workshop with experts in AI/ML and social sciences discussing the possibility of globally inclusive AI systems.  More details at our workshop website: https://globalaicultures.github.io/.
 
 
