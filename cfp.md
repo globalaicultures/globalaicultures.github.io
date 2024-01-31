@@ -22,7 +22,7 @@ This workshop is meant to be inter-disciplinary so we welcome submissions of soc
 
 Any format is fine. Submissions need not use the ICLR style file.
 
-**You can submit for both tracks using OpenReview by February 24, 2024.** *(We will update the link to the submission system ASAP.)*
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/Global_AI_Cultures) by February 24, 2024.**
 
 
 ## Timeline:
