@@ -3,5 +3,6 @@ title: Global AI Cultures
 description: ICLR 2024 Workshop
 show_downloads: false
 
-aux_links: 
-  CFP: https://globalaicultures.github.io/cfp
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
