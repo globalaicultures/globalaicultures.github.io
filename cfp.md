@@ -14,6 +14,7 @@ This workshop is meant to be inter-disciplinary so we welcome submissions of soc
 1. **Provocations Track:** 1 page detailing a provocation, concept, method, or empirical result that you think is important for the field to consider. These will be presented as short lightning talks in our Shared Concepts session where we will collectively use these provocations to develop our research agenda for the topic of global AI cultures. Thus, through these provocations, you can curate and shape the discussion of this workshop, as well as create opportunities for mutual learning.
 2. **Paper Track:** 4-6 page papers that are a theoretical, methodological, technical, exploratory, or empirical exploration of the themes of this workshop. These will be presented as short lightning talks during the paper panels in the workshop. You will have a chance to get feedback on these papers through post-panel discussion and Q&A. 
 
+Any format is fine. Submissions need not use the ICLR style file.
 
 **You can submit for both tracks using OpenReview by February 24, 2024.** *(We will update the link to the submission system ASAP.)*
 
