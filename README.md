@@ -41,15 +41,15 @@ TBA
 
 ---
 
-# Call for papers
+# Call for Papers/Submission Portal
 
-The CFP can be found [here](https://globalaicultures.github.io/cfp).
+The CFP and submission portal can be found [here](https://globalaicultures.github.io/cfp).
 
-# Dates/Submission portal
+# Dates
 
-All registered participants of ICLR 2024 can attend the workshop. If you have concerns about registration cost but would like to attend the workshop, please let us know at: globalcultures_iclr@googlegroups.com.
+All registered participants of ICLR 2024 can attend the workshop. If you have concerns about registration cost but would like to attend the workshop, please let us know at: [globalaicultures@gmail.com](mailto:globalaicultures@gmail.com).
 
-For questions please get in touch with us at: globalcultures_iclr@googlegroups.com.
+For questions please get in touch with us at: [globalaicultures@gmail.com](mailto:globalaicultures@gmail.com).
 
 **Submission Deadline**: February 24, 2024
 
