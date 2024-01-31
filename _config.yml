@@ -2,8 +2,4 @@ remote_theme: pmarsceill/just-the-docs
 title: Global AI Cultures
 description: ICLR 2024 Workshop
 
-aux_links:
-  "Spatial Math Toolbox for MATLAB":
-    - "https://github.com/petercorke/spatial-math"
-
 
