@@ -28,7 +28,9 @@ Any format is fine. Submissions need not use the ICLR style file.
 ## Timeline:
 
 Deadline for submissions: Feb 24, 2024
+
 Acceptance notification: Mar 3, 2024
+
 Workshop date: May 11, 2024
 
 
