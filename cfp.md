@@ -29,9 +29,9 @@ Any format is fine. Submissions need not use the ICLR style file. The page limit
 
 Deadline for submissions: Feb 24, 2024 AoE
 
-Acceptance notification: Mar 3, 2024 AoE
+Acceptance notification: Mar 3, 2024
 
-Workshop date: May 11, 2024 AoE
+Workshop date: May 11, 2024
 
 
 ## Workshop Themes:
