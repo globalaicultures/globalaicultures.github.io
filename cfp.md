@@ -20,18 +20,18 @@ This workshop is meant to be inter-disciplinary so we welcome submissions of soc
 1. **Provocations Track:** 1 page detailing a provocation, concept, method, or empirical result that you think is important for the field to consider. These will be presented as short lightning talks in our Shared Concepts session where we will collectively use these provocations to develop our research agenda for the topic of global AI cultures. Thus, through these provocations, you can curate and shape the discussion of this workshop, as well as create opportunities for mutual learning.
 2. **Paper Track:** 4-6 page papers that are a theoretical, methodological, technical, exploratory, or empirical exploration of the themes of this workshop. These will be presented as short lightning talks during the paper panels in the workshop. You will have a chance to get feedback on these papers through post-panel discussion and Q&A. 
 
-Any format is fine. Submissions need not use the ICLR style file.
+Any format is fine. Submissions need not use the ICLR style file. The page limits do not include references and appendixes; however, while there is no length limit for references and appendixes, reviewers are not required to read appendixes.
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/Global_AI_Cultures) by February 24, 2024.**
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/Global_AI_Cultures) by February 24, 2024 AoE.**
 
 
 ## Timeline:
 
-Deadline for submissions: Feb 24, 2024
+Deadline for submissions: Feb 24, 2024 AoE
 
-Acceptance notification: Mar 3, 2024
+Acceptance notification: Mar 3, 2024 AoE
 
-Workshop date: May 11, 2024
+Workshop date: May 11, 2024 AoE
 
 
 ## Workshop Themes:
