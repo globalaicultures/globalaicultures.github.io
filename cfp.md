@@ -27,7 +27,7 @@ Any format is fine. Submissions need not use the ICLR style file. The page limit
 
 ## Timeline:
 
-Deadline for submissions: Feb 24, 2024 AoE
+Deadline for submissions: Feb 27, 2024 AoE
 
 Acceptance notification: Mar 3, 2024
 
