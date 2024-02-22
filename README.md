@@ -51,7 +51,7 @@ All registered participants of ICLR 2024 can attend the workshop. If you have co
 
 For questions please get in touch with us at: [globalaicultures@gmail.com](mailto:globalaicultures@gmail.com).
 
-**Submission Deadline**: February 24, 2024 AoE
+**Submission Deadline**: February 27, 2024 AoE
 
 **Acceptance Notification**: March 3, 2024
 
