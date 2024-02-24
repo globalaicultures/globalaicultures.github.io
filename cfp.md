@@ -22,7 +22,7 @@ This workshop is meant to be inter-disciplinary so we welcome submissions of soc
 
 Any format is fine. Submissions need not use the ICLR style file. The page limits do not include references and appendixes; however, while there is no length limit for references and appendixes, reviewers are not required to read appendixes.
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/Global_AI_Cultures) by February 24, 2024 AoE.**
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/Global_AI_Cultures) by February 27, 2024 AoE.**
 
 
 ## Timeline:
