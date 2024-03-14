@@ -24,9 +24,7 @@ TBA
 
 # Schedule
 
-December 9, 2022
-
-
+Saturday, May 11, 2024
 
 | Time (CEST) | |
 | --- | :-- |
