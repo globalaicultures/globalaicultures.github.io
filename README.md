@@ -22,13 +22,11 @@ TBA
 
 # Schedule
 
-# Schedule
-
 Saturday, May 11, 2024
 
 | Time (CEST) | |
 | --- | :-- |
-| 10:00-10:15 | Opening provocation from organizers |
+| 10:00 - 10:15 | Opening provocation from organizers |
 | 10:15 - 11:15  | Paper Panel 1 | 
 | 11:15 - 12:15  | Paper Panel 2 | 
 | 12:15 - 13:15  | Lunch |
