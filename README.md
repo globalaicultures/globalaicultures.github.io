@@ -22,7 +22,23 @@ TBA
 
 # Schedule
 
-TBA
+# Schedule
+
+December 9, 2022
+
+
+
+| Time (CEST) | |
+| --- | :-- |
+| 10:00-10:15 | Opening provocation from organizers |
+| 10:15 - 11:15  | Paper Panel 1 | 
+| 11:15 - 12:15  | Paper Panel 2 | 
+| 12:15 - 13:15  | Lunch |
+| 13:15 - 15:00  | Provocations & Sharing Concepts in AI & Culture |
+| 15:00 - 15:30  | Coffee Break |
+| 15:30 - 16:45  | Invited Keynote Panel: Cultural Inclusion in Generative AI: Possibilities and Tensions |
+| | *[Maya Indira Ganesh](https://bodyofwork.in/), [Sara Hooker](https://www.sarahooker.me/), [Irene Solaiman](https://www.irenesolaiman.com/), and [Hal Daumé III](https://users.umiacs.umd.edu/~hal/)* |
+| 16:45 - 17:00 | Closing |
 
 # Accepted Submissions
 
