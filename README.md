@@ -18,7 +18,23 @@ This workshop will encourage field building on deepening our understanding for h
 
 # Panels
 
-TBA
+## Invited Keynote Panel: Cultural Inclusion in Generative AI: Possibilities and Tensions
+
+[Maya Indira Ganesh](https://bodyofwork.in/), University of Cambridge
+
+<img src="https://www.hughes.cam.ac.uk/wp-content/uploads/2022/07/Photo-1-480x469.jpg" alt="Maya Indira Ganesh" width="100"/>
+
+[Sara Hooker](https://www.sarahooker.me/), Cohere for AI
+
+<img src="https://ml.ucsb.edu/sites/default/files/images/2020-09/Sara%20Hooker.png" alt="Sara Hooker" width="100"/>
+
+[Irene Solaiman](https://www.irenesolaiman.com/), Huggingface
+
+<img src="https://twitter.com/IreneSolaiman/photo" alt="Irene Solaiman" width="100"/>
+
+[Hal Daumé III](https://users.umiacs.umd.edu/~hal/), University of Maryland and Microsoft Research NYC
+
+<img src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me-photo.jpg" alt="Hal Daumé III" width="100"/>
 
 # Schedule
 
