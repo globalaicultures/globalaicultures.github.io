@@ -30,7 +30,7 @@ This workshop will encourage field building on deepening our understanding for h
 
 [Irene Solaiman](https://www.irenesolaiman.com/), Huggingface
 
-<img src="https://twitter.com/IreneSolaiman/photo" alt="Irene Solaiman" width="100"/>
+<img src="https://i0.wp.com/emergingtechpolicy.org/wp-content/uploads/2023/10/IreneSolaiman-Headshot.jpg" alt="Irene Solaiman" width="100"/>
 
 [Hal Daumé III](https://users.umiacs.umd.edu/~hal/), University of Maryland and Microsoft Research NYC
 
