@@ -43,21 +43,49 @@ Saturday, May 11, 2024
 | Time (CEST) | |
 | --- | :-- |
 | 10:00 - 10:15 | Opening provocation from organizers |
-| 10:15 - 11:15  | Paper Panel 1 | 
-| | Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions<br>*Reem Masoud, Ziquan Liu, Martin Ferianc, Philip Colin Treleaven, Miguel R. D. Rodrigues*<br><br>AI Literacy in Low-Resource Languages:Insights from creating AI in Yoruba videos<br>*Wuraola Oyewusi*<br><br>Fears about Artificial Intelligence across 20 Countries and 6 Domains of Application<br>*Mengchen Dong, Jane Rebecca Conway, Jean-François Bonnefon, Azim Shariff, Iyad Rahwan* |
-| 11:15 - 12:15  | Paper Panel 2 | 
+| 10:15 - 11:15  | **Paper Panel 1**<br>*Moderator: TBA* | 
+| | Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions<br>*Reem Masoud, Ziquan Liu, Martin Ferianc, Philip Colin Treleaven, Miguel R. D. Rodrigues*<br><br>AI Literacy in Low-Resource Languages: Insights from creating AI in Yoruba videos<br>*Wuraola Oyewusi*<br><br>Fears about Artificial Intelligence across 20 Countries and 6 Domains of Application<br>*Mengchen Dong, Jane Rebecca Conway, Jean-François Bonnefon, Azim Shariff, Iyad Rahwan* |
+| 11:15 - 12:15  | **Paper Panel 2**<br>*Moderator: TBA* | 
 | | Vision-Language models under Cultural and Inclusive Considerations<br>*Antonia Karamolegkou, Phillip Rust, Yong Cao, Ruixiang Cui, Daniel Hershcovich, Anders Søgaard*<br><br>Multi-FAct: Assessing Multilingual LLMs’ Multi-Regional Knowledge using FActScore<br>*Sheikh Shafayat, Eunsu Kim, Juhyun Oh, Alice Oh*<br><br>WorldBench: Quantifying Geographic Disparities in LLM Factual Recall<br>*Mazda Moayeri, Elham Tabassi, Soheil Feizi* |
 | 12:15 - 13:15  | Lunch |
-| 13:15 - 15:00  | Provocations & Sharing Concepts in AI & Culture |
+| 13:15 - 15:00  | **Provocations & Sharing Concepts in AI & Culture**<br>*Moderator: TBA* |
 | | The Silent Curriculum: How Does LLM Monoculture Shape Educational Content and Its Accessibility<br>*Aman Priyanshu, Supriti Vijay*<br><br>K-Datasets: The More the Merrier?<br>*Chaewon Yun, Joonha Jeon, Koh Achim*<br><br>Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects<br>*Zilong Liu, Krzysztof Janowicz, Kitty Currier*<br><br>On generated vs collected data<br>*Levent Sagun, Kartik Ahuja, Elvis Dohmatob, Julia Kempe*<br><br>AI for a Multicultural Future: Initial Empirical Findings and a Cultural Psychological Perspective On AI<br>*Chunchen Xu, Xiao Ge, Cinoo Lee*<br><br>Complicating the "Global South" in AI Ethics<br>*Evani Radiya-Dixit, Angele Christin*<br><br>A global AI community requires language-diverse publishing<br>*Haley Lepp, Parth Sarin* |
 | 15:00 - 15:30  | Coffee Break |
-| 15:30 - 16:45  | Invited Keynote Panel: Cultural Inclusion in Generative AI: Possibilities and Tensions |
+| 15:30 - 16:45  | **Invited Keynote Panel: Cultural Inclusion in Generative AI: Possibilities and Tensions**<br>*Moderator: Arjun Subramonian* |
 | | *[Maya Indira Ganesh](https://bodyofwork.in/), [Sara Hooker](https://www.sarahooker.me/), [Irene Solaiman](https://www.irenesolaiman.com/), and [Hal Daumé III](https://users.umiacs.umd.edu/~hal/)* |
 | 16:45 - 17:00 | Closing |
 
-# Accepted Submissions
+# Accepted Papers
 
-TBA
+* [Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions](),
+_Reem Masoud, Ziquan Liu, Martin Ferianc, Philip Colin Treleaven, Miguel R. D. Rodrigues_
+* [AI Literacy in Low-Resource Languages: Insights from creating AI in Yoruba videos](),
+_Wuraola Oyewusi_
+* [Fears about Artificial Intelligence across 20 Countries and 6 Domains of Application](),
+_Mengchen Dong, Jane Rebecca Conway, Jean-François Bonnefon, Azim Shariff, Iyad Rahwan_
+* [Vision-Language models under Cultural and Inclusive Considerations](),
+_Antonia Karamolegkou, Phillip Rust, Yong Cao, Ruixiang Cui, Daniel Hershcovich, Anders Søgaard_
+* [Multi-FAct: Assessing Multilingual LLMs’ Multi-Regional Knowledge using FActScore](),
+_Sheikh Shafayat, Eunsu Kim, Juhyun Oh, Alice Oh_
+* [WorldBench: Quantifying Geographic Disparities in LLM Factual Recall](),
+_Mazda Moayeri, Elham Tabassi, Soheil Feizi_
+
+## Accepted Provocations
+
+* [The Silent Curriculum: How Does LLM Monoculture Shape Educational Content and Its Accessibility](),
+_Aman Priyanshu, Supriti Vijay_
+* [K-Datasets: The More the Merrier?](),
+_Chaewon Yun, Joonha Jeon, Koh Achim_
+* [Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects](),
+_Zilong Liu, Krzysztof Janowicz, Kitty Currier_
+* [On generated vs collected data](),
+_Levent Sagun, Kartik Ahuja, Elvis Dohmatob, Julia Kempe_
+* [AI for a Multicultural Future: Initial Empirical Findings and a Cultural Psychological Perspective On AI](),
+_Chunchen Xu, Xiao Ge, Cinoo Lee_
+* [Complicating the "Global South" in AI Ethics](),
+_Evani Radiya-Dixit, Angele Christin_
+* [A global AI community requires language-diverse publishing](),
+_Haley Lepp, Parth Sarin_
 
 # Organizers
 
