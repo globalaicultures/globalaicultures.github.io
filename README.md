@@ -46,6 +46,7 @@ Saturday, May 11, 2024
 | 10:15 - 11:15  | Paper Panel 1 | 
 | | Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions<br>*Reem Masoud, Ziquan Liu, Martin Ferianc, Philip Colin Treleaven, Miguel R. D. Rodrigues*<br><br>AI Literacy in Low-Resource Languages:Insights from creating AI in Yoruba videos<br>*Wuraola Oyewusi*<br><br>Fears about Artificial Intelligence across 20 Countries and 6 Domains of Application<br>*Mengchen Dong, Jane Rebecca Conway, Jean-François Bonnefon, Azim Shariff, Iyad Rahwan* |
 | 11:15 - 12:15  | Paper Panel 2 | 
+| | Vision-Language models under Cultural and Inclusive Considerations<br>*Antonia Karamolegkou, Phillip Rust, Yong Cao, Ruixiang Cui, Daniel Hershcovich, Anders Søgaard*<br><br>Multi-FAct: Assessing Multilingual LLMs’ Multi-Regional Knowledge using FActScore<br>*Sheikh Shafayat, Eunsu Kim, Juhyun Oh, Alice Oh*<br><br>WorldBench: Quantifying Geographic Disparities in LLM Factual Recall<br>*Mazda Moayeri, Elham Tabassi, Soheil Feizi* |
 | 12:15 - 13:15  | Lunch |
 | 13:15 - 15:00  | Provocations & Sharing Concepts in AI & Culture |
 | 15:00 - 15:30  | Coffee Break |
