@@ -70,7 +70,7 @@ _Sheikh Shafayat, Eunsu Kim, Juhyun Oh, Alice Oh_
 * [WorldBench: Quantifying Geographic Disparities in LLM Factual Recall](),
 _Mazda Moayeri, Elham Tabassi, Soheil Feizi_
 
-## Accepted Provocations
+# Accepted Provocations
 
 * [The Silent Curriculum: How Does LLM Monoculture Shape Educational Content and Its Accessibility](),
 _Aman Priyanshu, Supriti Vijay_
