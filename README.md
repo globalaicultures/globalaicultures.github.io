@@ -1,5 +1,7 @@
 The Workshop on Global AI Cultures to be held as part of [ICLR 2024](https://iclr.cc/Conferences/2024) on **May 11**. This is a cross-disciplinary workshop with experts in AI/ML and social sciences and humanities to develop a research agenda towards building more globally inclusive AI.
 
+Please use the following link to navigate to the workshop page on the ICLR website: [https://iclr.cc/virtual/2024/workshop/20576](https://iclr.cc/virtual/2024/workshop/20576).
+
 
 ## Description
 
