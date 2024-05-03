@@ -57,26 +57,26 @@ Saturday, May 11, 2024
 
 # Accepted Papers
 
-* [Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions](),
+* [Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions](pdf/14_cultural_alignment_in_large_la.pdf),
 _Reem Masoud, Ziquan Liu, Martin Ferianc, Philip Colin Treleaven, Miguel R. D. Rodrigues_
-* [AI Literacy in Low-Resource Languages: Insights from creating AI in Yoruba videos](),
+* [AI Literacy in Low-Resource Languages: Insights from creating AI in Yoruba videos](pdf/3_ai_literacy_in_low_resource_la.pdf),
 _Wuraola Oyewusi_
-* [Fears about Artificial Intelligence across 20 Countries and 6 Domains of Application](),
+* [Fears about Artificial Intelligence across 20 Countries and 6 Domains of Application](pdf/2_fears_about_artificial_intelli.pdf),
 _Mengchen Dong, Jane Rebecca Conway, Jean-François Bonnefon, Azim Shariff, Iyad Rahwan_
-* [Vision-Language models under Cultural and Inclusive Considerations](),
+* [Vision-Language models under Cultural and Inclusive Considerations](pdf/23_vision_language_models_under_c.pdf),
 _Antonia Karamolegkou, Phillip Rust, Yong Cao, Ruixiang Cui, Daniel Hershcovich, Anders Søgaard_
-* [Multi-FAct: Assessing Multilingual LLMs’ Multi-Regional Knowledge using FActScore](),
+* [Multi-FAct: Assessing Multilingual LLMs’ Multi-Regional Knowledge using FActScore](pdf/12_multi_fact_assessing_multiling.pdf),
 _Sheikh Shafayat, Eunsu Kim, Juhyun Oh, Alice Oh_
-* [WorldBench: Quantifying Geographic Disparities in LLM Factual Recall](),
+* [WorldBench: Quantifying Geographic Disparities in LLM Factual Recall](pdf/4_worldbench_quantifying_geograp.pdf),
 _Mazda Moayeri, Elham Tabassi, Soheil Feizi_
 
 # Accepted Provocations
 
-* [The Silent Curriculum: How Does LLM Monoculture Shape Educational Content and Its Accessibility](),
+* [The Silent Curriculum: How Does LLM Monoculture Shape Educational Content and Its Accessibility](pdf/20_the_silent_curriculum_how_does.pdf),
 _Aman Priyanshu, Supriti Vijay_
-* [K-Datasets: The More the Merrier?](),
+* [K-Datasets: The More the Merrier?](pdf/7_k_datasets_the_more_the_merrie.pdf),
 _Chaewon Yun, Joonha Jeon, Koh Achim_
-* [Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects](),
+* [Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects](pdf/15_making_geographic_space_explic.pdf),
 _Zilong Liu, Krzysztof Janowicz, Kitty Currier_
 * [On generated vs collected data](),
 _Levent Sagun, Kartik Ahuja, Elvis Dohmatob, Julia Kempe_
@@ -84,7 +84,7 @@ _Levent Sagun, Kartik Ahuja, Elvis Dohmatob, Julia Kempe_
 _Chunchen Xu, Xiao Ge, Cinoo Lee_
 * [Complicating the "Global South" in AI Ethics](),
 _Evani Radiya-Dixit, Angele Christin_
-* [A global AI community requires language-diverse publishing](),
+* [A global AI community requires language-diverse publishing](pdf/11_a_global_ai_community_requires.pdf),
 _Haley Lepp, Parth Sarin_
 
 # Organizers
