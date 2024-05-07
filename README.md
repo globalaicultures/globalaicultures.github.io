@@ -80,9 +80,9 @@ _Aman Priyanshu, Supriti Vijay_
 _Chaewon Yun, Joonha Jeon, Koh Achim_
 * [Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects](pdf/15_making_geographic_space_explic.pdf),
 _Zilong Liu, Krzysztof Janowicz, Kitty Currier_
-* [On generated vs collected data](),
+* [On generated vs collected data](pdf/On_Generated_Vs_Collected_Data.pdf),
 _Levent Sagun, Kartik Ahuja, Elvis Dohmatob, Julia Kempe_
-* [AI for a Multicultural Future: Initial Empirical Findings and a Cultural Psychological Perspective On AI](pdf/On_Generated_Vs_Collected_Data.pdf),
+* [AI for a Multicultural Future: Initial Empirical Findings and a Cultural Psychological Perspective On AI](),
 _Chunchen Xu, Xiao Ge, Cinoo Lee_
 * [Complicating the "Global South" in AI Ethics](),
 _Evani Radiya-Dixit, Angele Christin_
