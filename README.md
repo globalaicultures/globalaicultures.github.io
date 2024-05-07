@@ -82,7 +82,7 @@ _Chaewon Yun, Joonha Jeon, Koh Achim_
 _Zilong Liu, Krzysztof Janowicz, Kitty Currier_
 * [On generated vs collected data](),
 _Levent Sagun, Kartik Ahuja, Elvis Dohmatob, Julia Kempe_
-* [AI for a Multicultural Future: Initial Empirical Findings and a Cultural Psychological Perspective On AI](),
+* [AI for a Multicultural Future: Initial Empirical Findings and a Cultural Psychological Perspective On AI](pdf/On_Generated_Vs_Collected_Data.pdf),
 _Chunchen Xu, Xiao Ge, Cinoo Lee_
 * [Complicating the "Global South" in AI Ethics](),
 _Evani Radiya-Dixit, Angele Christin_
